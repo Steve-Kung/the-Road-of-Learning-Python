@@ -15,4 +15,5 @@
 	直接上手python3
 	小甲鱼《零基础入门学习python》书和视频（53/97）15个小时左右
 	http://www.bilibili.com/video/av4050443
+	《父与子的编程之旅-与小卡特一起学Python》
 
