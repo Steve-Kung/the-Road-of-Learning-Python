@@ -1,0 +1,18 @@
+2018/12/10
+总结之前的python学习经历，作为小白，走了不少弯路，现在总结如下
+
+1、安装顺序：Anaconda-Pycharm
+
+	Anaconda是一个科学计算环境，当在电脑上安装好Anaconda3以后，就相当于安装好了Python3，
+	还有一些常用的库，如numpy，matplotlib等库
+	http://www.anaconda.com/download/
+	所以，Anaconda相当于是一个集成好了的python，不用自己再动手安装常用的库，而且管理库也
+	更加方便
+	接下来就是IDE开发环境，便于调试等等，推荐pycharm
+
+2、学习路线
+	
+	直接上手python3
+	小甲鱼《零基础入门学习python》书和视频（53/97）15个小时左右
+	http://www.bilibili.com/video/av4050443
+
