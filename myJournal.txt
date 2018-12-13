@@ -5,7 +5,11 @@
 
 	Anaconda是一个科学计算环境，当在电脑上安装好Anaconda3以后，就相当于安装好了Python3，
 	还有一些常用的库，如numpy，matplotlib等库
-	http://www.anaconda.com/download/
+	http://www.anaconda.com/download/（不推荐外网慢）
+	https://blog.csdn.net/wyx100/article/details/79453941（清华镜像，快）下载
+	http://bbs.pinggu.org/thread-5678399-1-1.html（安装教程）
+	Jupyter Notebook介绍（超简易使用教程）
+	https://www.bilibili.com/video/av13343628
 	所以，Anaconda相当于是一个集成好了的python，不用自己再动手安装常用的库，而且管理库也
 	更加方便
 	接下来就是IDE开发环境，便于调试等等，推荐pycharm
@@ -17,10 +21,13 @@
 	1）python的基本语法和应用：（基本元素、判断循环、函数、类）
 	小甲鱼《零基础入门学习python》书和视频（53/97）15个小时左右
 	http://www.bilibili.com/video/av4050443
-	2）科学计算库numpy和pandas
-	《机器学习numpy与pandas基础》PPT
+	2）科学计算库numpy和pandas(数据分析)
+	《机器学习numpy与pandas基础》PPT（2018/12/13）
 	《十分钟搞定pandas》
 	http://python.jobbole.com/84416/
+	3）画图库matplotlib -->可视化数据特征
+	《matplotlib绘图可视化知识点整理》
+	http://python,jobbole.com/85106/
 	
 
 	
